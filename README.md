@@ -1,7 +1,7 @@
 # WHMCS 7.x Mellat Bank Gateway Module #
 ## Summary ##
 
-Payment Gateway module of [Mellat Bank] (https://www.bankmellat.ir/) allow you to integrate payment solutions with the WHMCS 7.x
+Payment Gateway module of [Mellat Bank](https://www.bankmellat.ir/) allow you to integrate payment solutions with the WHMCS 7.x
 platform.
 
 ## Install ##
@@ -26,4 +26,4 @@ Befor activating this gateway module, run below sql code in your database:
 
 ## Useful Resources
 * [Creator](https://www.itpiran.com/)
-* [Mellat Bank] (https://www.bankmellat.ir/)
+* [Mellat Bank](https://www.bankmellat.ir/)
