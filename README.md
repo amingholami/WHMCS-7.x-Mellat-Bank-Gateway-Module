@@ -1,6 +1,8 @@
 # WHMCS 7.x Mellat Bank Gateway Module - ماژول پرداخت آنلاین بانک ملت #
 ## Summary ##
 
+![Bank Mellat](https://rawgit.com/amingholami/WHMCS-7.x-Mellat-Bank-Gateway-Module/master/bank-mellat.jpg)
+
 Payment Gateway module of [Mellat Bank](https://www.bankmellat.ir/) allow you to integrate payment solutions with the WHMCS 7.x
 platform.
 
